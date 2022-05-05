@@ -1,0 +1,3 @@
+xaamp server run
+tkinter
+python 3.9
